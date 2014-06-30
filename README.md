@@ -39,6 +39,12 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-consul-4.tgz
 ```
 
+- **docker** [v4](https://github.com/cf-platform-eng/docker-boshrelease/tree/v4) (32M)
+
+```
+bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-docker-4.tgz
+```
+
 - **docker-registry** [v1](https://github.com/cloudfoundry-community/docker-registry-boshrelease/tree/v1) (32M)
 
 ```
@@ -49,6 +55,12 @@ bosh upload release https://docker-registry-boshrelease.s3.amazonaws.com/boshrel
 
 ```
 bosh upload release https://redis-boshrelease.s3.amazonaws.com/boshrelease-redis-5.tgz
+```
+
+- **sslproxy** [v5](https://github.com/cloudfoundry-community/sslproxy-boshrelease/tree/v5) (2.4M)
+
+```
+bosh upload release https://sslproxy-boshrelease.s3.amazonaws.com/boshrelease-sslproxy-5.tgz
 ```
 
 Follow the version links above for deployment manifest/spiff template examples.
