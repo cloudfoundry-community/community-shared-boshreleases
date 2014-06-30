@@ -8,18 +8,20 @@ Additionally, it allows BOSH release tarballs to be uploaded to a shared blobsto
 Releases
 --------
 
-- **cf** v170 (1.5G), v173 (2.5G)
+- **cf** [v170](https://github.com/cloudfoundry/cf-release/tree/v170) (1.5G), [v173](https://github.com/cloudfoundry/cf-release/tree/v173) (2.5G)
 
 ```
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-170.tgz
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-173.tgz
 ```
 
-- **cf-mysql** v8
+- **cf-mysql** [v8](https://github.com/cloudfoundry/cf-mysql-release/tree/v8)
 
 ```
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-mysql-8.tgz
 ```
+
+Follow the version links above for deployment manifest/spiff template examples.
 
 Usage
 -----
