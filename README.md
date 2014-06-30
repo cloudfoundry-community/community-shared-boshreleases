@@ -21,6 +21,12 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-mysql-8.tgz
 ```
 
+- **docker-registry** [v1](https://github.com/cloudfoundry-community/docker-registry-boshrelease/tree/v1)
+
+```
+bosh upload release https://docker-registry-boshrelease.s3.amazonaws.com/boshrelease-docker-registry-1.tgz
+```
+
 - **redis** [v5](https://github.com/cloudfoundry-community/redis-boshrelease/tree/v5) (1M)
 
 ```
