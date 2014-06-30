@@ -8,9 +8,10 @@ Additionally, it allows BOSH release tarballs to be uploaded to a shared blobsto
 Releases
 --------
 
-- **cf** v173 (2.5G)
+- **cf** v170 (1.5G), v173 (2.5G)
 
 ```
+bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-170.tgz
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-173.tgz
 ```
 
