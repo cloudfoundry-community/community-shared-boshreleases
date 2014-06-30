@@ -21,6 +21,12 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-mysql-8.tgz
 ```
 
+- **redis** [v5](https://github.com/cloudfoundry-community/redis-boshrelease/tree/v5)
+
+```
+bosh upload release https://redis-boshrelease.s3.amazonaws.com/boshrelease-redis-5.tgz
+```
+
 Follow the version links above for deployment manifest/spiff template examples.
 
 Usage
