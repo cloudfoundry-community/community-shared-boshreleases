@@ -15,13 +15,13 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-173.tgz
 ```
 
-- **cf-mysql** [v8](https://github.com/cloudfoundry/cf-mysql-release/tree/v8)
+- **cf-mysql** [v8](https://github.com/cloudfoundry/cf-mysql-release/tree/v8) (118M)
 
 ```
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-mysql-8.tgz
 ```
 
-- **redis** [v5](https://github.com/cloudfoundry-community/redis-boshrelease/tree/v5)
+- **redis** [v5](https://github.com/cloudfoundry-community/redis-boshrelease/tree/v5) (1M)
 
 ```
 bosh upload release https://redis-boshrelease.s3.amazonaws.com/boshrelease-redis-5.tgz
