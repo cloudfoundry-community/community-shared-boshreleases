@@ -51,10 +51,22 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://docker-registry-boshrelease.s3.amazonaws.com/boshrelease-docker-registry-1.tgz
 ```
 
+- **mesos** [v1](https://github.com/cf-platform-eng/shipyard-boshrelease/tree/v1) (384.9M)
+
+```
+bosh upload release https://mesos-boshrelease.s3.amazonaws.com/boshrelease-mesos-1.tgz
+```
+
 - **redis** [v5](https://github.com/cloudfoundry-community/redis-boshrelease/tree/v5) (1M)
 
 ```
 bosh upload release https://redis-boshrelease.s3.amazonaws.com/boshrelease-redis-5.tgz
+```
+
+- **shipyard** [v3](https://github.com/cf-platform-eng/shipyard-boshrelease/tree/v3) (6.1M)
+
+```
+bosh upload release https://shipyard-boshrelease.s3.amazonaws.com/boshrelease-shipyard-3.tgz
 ```
 
 - **sslproxy** [v5](https://github.com/cloudfoundry-community/sslproxy-boshrelease/tree/v5) (2.4M)
