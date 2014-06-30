@@ -52,3 +52,25 @@ https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-173.tgz
 ```
 
 The resulting URL can now be added to the `README.md` above.
+
+One time only, please email [Dr Nic Williams](mailto:&#x64;&#x72;&#x6E;&#x69;&#x63;&#x77;&#x69;&#x6C;&#x6C;&#x69;&#x61;&#x6D;&#x73;&#x40;&#x67;&#x6D;&#x61;&#x69;&#x6C;&#x2E;&#x63;&#x6F;&#x6D;) and he will set you up with access:
+
+- Read/write credentials to the AWS S3 account for your BOSH release blobstores/buckets
+
+When he gives you the AWS S3 credentials, place them in `config/private.yml` of this project:
+
+```yaml
+---
+blobstore:
+  s3:
+    access_key_id:     ACCESS
+    secret_access_key: SECRET
+```
+
+Finally, so they are useful for other `bosh-gen` projects, place them in the `~/.fog` file and you'll easily be able to reuse them for each new BOSH release:
+
+```yaml
+:community:
+  :aws_access_key_id:     ACCESS
+  :aws_secret_access_key: SECRET
+```
