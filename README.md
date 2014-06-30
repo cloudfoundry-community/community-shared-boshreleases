@@ -21,7 +21,7 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-mysql-8.tgz
 ```
 
-- **cf-services-contrib** [v5]()
+- **cf-services-contrib** [v5](https://github.com/cloudfoundry-community/cf-services-contrib-release/tree/v5) (795.7M)
 
 ```
 bosh upload release https://cf-services-contrib-boshrelease.s3.amazonaws.com/boshrelease-cf-services-contrib-5.tgz
