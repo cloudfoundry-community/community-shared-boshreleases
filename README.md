@@ -8,10 +8,10 @@ Additionally, it allows BOSH release tarballs to be uploaded to a shared blobsto
 Releases
 --------
 
-- **admin-ui** [v2](https://github.com/cloudfoundry-community/admin-ui-boshrelease/tree/v2) (20M)
+- **admin-ui** [v2](https://github.com/cloudfoundry-community/admin-ui-boshrelease/tree/v2) (20M), [v3](https://github.com/cloudfoundry-community/admin-ui-boshrelease/tree/v3) (20M)
 
 ```
-bosh upload release https://admin-ui-boshrelease.s3.amazonaws.com/boshrelease-admin-ui-2.tgz
+bosh upload release https://admin-ui-boshrelease.s3.amazonaws.com/boshrelease-admin-ui-3.tgz
 ```
 
 - **cf** [v170](https://github.com/cloudfoundry/cf-release/tree/v170) (1.5G), [v173](https://github.com/cloudfoundry/cf-release/tree/v173) (2.5G)
