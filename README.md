@@ -8,6 +8,12 @@ Additionally, it allows BOSH release tarballs to be uploaded to a shared blobsto
 Releases
 --------
 
+- **admin-ui** [v2](https://github.com/cloudfoundry-community/admin-ui-boshrelease/tree/v2) (20M)
+
+```
+bosh upload release https://admin-ui-boshrelease.s3.amazonaws.com/boshrelease-admin-ui-2.tgz
+```
+
 - **cf** [v170](https://github.com/cloudfoundry/cf-release/tree/v170) (1.5G), [v173](https://github.com/cloudfoundry/cf-release/tree/v173) (2.5G)
 
 ```
@@ -15,7 +21,7 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-173.tgz
 ```
 
-- **cf-mysql** [v8](https://github.com/cloudfoundry/cf-mysql-release/tree/v8) (118M), [2014-06-30](https://github.com/cloudfoundry/cf-mysql-release/tree/96aadfd72c77028bf682a18d79b3c5836d48b341) (241MB)
+- **cf-mysql** [v8](https://github.com/cloudfoundry/cf-mysql-release/tree/v8) (118M), [2014-06-30](https://github.com/cloudfoundry/cf-mysql-release/tree/96aadfd72c77028bf682a18d79b3c5836d48b341) (241M)
 
 ```
 # v8
