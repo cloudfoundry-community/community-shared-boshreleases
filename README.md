@@ -33,7 +33,7 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 - **cf-services-contrib** [v5](https://github.com/cloudfoundry-community/cf-services-contrib-release/tree/v5) (795.7M)
 
 ```
-bosh upload release https://cf-services-contrib-boshrelease.s3.amazonaws.com/boshrelease-cf-services-contrib-5.tgz
+bosh upload release https://cf-contrib.s3.amazonaws.com/boshrelease-cf-services-contrib-5.tgz
 ```
 
 - **cf-riak-cs** [v2](https://github.com/cloudfoundry-incubator/cf-riak-cs-release/tree/v2) (196.8M)
