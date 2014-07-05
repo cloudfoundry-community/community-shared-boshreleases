@@ -14,6 +14,7 @@ Releases
 bosh upload release https://admin-ui-boshrelease.s3.amazonaws.com/boshrelease-admin-ui-3.tgz
 ```
 
+- **bosh** see http://boshartifacts.cloudfoundry.org/file_collections?type=releases
 - **cf** [v170](https://github.com/cloudfoundry/cf-release/tree/v170) (1.5G), [v173](https://github.com/cloudfoundry/cf-release/tree/v173) (2.5G)
 
 ```
