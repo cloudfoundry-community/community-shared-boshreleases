@@ -51,10 +51,11 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-consul-4.tgz
 ```
 
-- **docker** [v4](https://github.com/cf-platform-eng/docker-boshrelease/tree/v4) (32M)
+- **docker** [v4](https://github.com/cf-platform-eng/docker-boshrelease/tree/v4) (32M), [v5](https://github.com/cf-platform-eng/docker-boshrelease/tree/v5) (20M)
 
 ```
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-docker-4.tgz
+bosh upload release https://docker-boshrelease.s3.amazonaws.com/boshrelease-docker-5.tgz
 ```
 
 - **docker-registry** [v1](https://github.com/cloudfoundry-community/docker-registry-boshrelease/tree/v1) (32M)
