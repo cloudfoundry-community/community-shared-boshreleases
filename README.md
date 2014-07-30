@@ -23,13 +23,11 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-175.tgz
 ```
 
-- **cf-mysql** [v8](https://github.com/cloudfoundry/cf-mysql-release/tree/v8) (118M), [2014-06-30](https://github.com/cloudfoundry/cf-mysql-release/tree/96aadfd72c77028bf682a18d79b3c5836d48b341) (241M)
+- **cf-mysql** [v8](https://github.com/cloudfoundry/cf-mysql-release/tree/v8) (118M), [v9](https://github.com/cloudfoundry/cf-mysql-release/tree/v9) (259M)
 
 ```
-# v8
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-mysql-8.tgz
-# dev release 2014-06-30
-bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-mysql-8%2Bdev.1.tgz
+bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-mysql-9.tgz
 ```
 
 - **cf-services-contrib** [v5](https://github.com/cloudfoundry-community/cf-services-contrib-release/tree/v5) (795.7M)
