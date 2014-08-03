@@ -87,6 +87,12 @@ bosh upload release https://shipyard-boshrelease.s3.amazonaws.com/boshrelease-sh
 bosh upload release https://sslproxy-boshrelease.s3.amazonaws.com/boshrelease-sslproxy-5.tgz
 ```
 
+- **tree** [v2](https://github.com/cloudfoundry-community/tree-boshrelease/tree/v2) (43KB)
+
+```
+bosh upload release https://tree-boshrelease.s3.amazonaws.com/boshrelease-tree-2.tgz
+```
+
 Follow the version links above for deployment manifest/spiff template examples.
 
 Usage
