@@ -24,7 +24,7 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-176.tgz
 ```
 
-- <strong id="cf-mysql">cf-mysql</strong> [v8](https://github.com/cloudfoundry/cf-mysql-release/tree/v8) (118M), [v9](https://github.com/cloudfoundry/cf-mysql-release/tree/v9) (259M), [v9](https://github.com/cloudfoundry/cf-mysql-release/tree/v10) (255M)
+- <strong id="cf-mysql">cf-mysql</strong> [v8](https://github.com/cloudfoundry/cf-mysql-release/tree/v8) (118M), [v9](https://github.com/cloudfoundry/cf-mysql-release/tree/v9) (259M), [v10](https://github.com/cloudfoundry/cf-mysql-release/tree/v10) (255M)
 
 ```
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-mysql-8.tgz
@@ -51,11 +51,12 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-consul-4.tgz
 ```
 
-- **docker** [v4](https://github.com/cf-platform-eng/docker-boshrelease/tree/v4) (32M), [v5](https://github.com/cf-platform-eng/docker-boshrelease/tree/v5) (20M)
+- **docker** [v4](https://github.com/cf-platform-eng/docker-boshrelease/tree/v4) (32M), [v5](https://github.com/cf-platform-eng/docker-boshrelease/tree/v5) (20M), [v6](https://github.com/cf-platform-eng/docker-boshrelease/tree/v6) (20M)
 
 ```
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-docker-4.tgz
 bosh upload release https://docker-boshrelease.s3.amazonaws.com/boshrelease-docker-5.tgz
+bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-docker-6.tgz
 ```
 
 - **docker-registry** [v1](https://github.com/cloudfoundry-community/docker-registry-boshrelease/tree/v1) (32M)
