@@ -15,7 +15,8 @@ bosh upload release https://admin-ui-boshrelease.s3.amazonaws.com/boshrelease-ad
 ```
 
 - **bosh** see http://boshartifacts.cloudfoundry.org/file_collections?type=releases
-- **cf** [v170](https://github.com/cloudfoundry/cf-release/tree/v170) (1.5G), [v173](https://github.com/cloudfoundry/cf-release/tree/v173) (2.5G), [v175](https://github.com/cloudfoundry/cf-release/tree/v175) (2.7G), [v176](https://github.com/cloudfoundry/cf-release/tree/v176) (2.8G) [v177](https://github.com/cloudfoundry/cf-release/tree/v177) (3.1G) [v178](https://github.com/cloudfoundry/cf-release/tree/v178) (3.1G) [v179](https://github.com/cloudfoundry/cf-release/tree/v179) (3.1G)
+- **cf** [v170](https://github.com/cloudfoundry/cf-release/tree/v170) (1.5G), [v173](https://github.com/cloudfoundry/cf-release/tree/v173) (2.5G), [v175](https://github.com/cloudfoundry/cf-release/tree/v175) (2.7G), [v176](https://github.com/cloudfoundry/cf-release/tree/v176) (2.8G), [v177](https://github.com/cloudfoundry/cf-release/tree/v177) (3.1G), [v178](https://github.com/cloudfoundry/cf-release/tree/v178) (3.1G), [v179](https://github.com/cloudfoundry/cf-release/tree/v179) (3.1G),
+[v180](https://github.com/cloudfoundry/cf-release/tree/v180) (3.1G),
 
 ```
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-170.tgz
@@ -25,6 +26,7 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-177.tgz
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-178.tgz
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-179.tgz
+bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-180.tgz
 ```
 
 - <strong id="cf-mysql">cf-mysql</strong> [v8](https://github.com/cloudfoundry/cf-mysql-release/tree/v8) (118M), [v9](https://github.com/cloudfoundry/cf-mysql-release/tree/v9) (259M), [v10](https://github.com/cloudfoundry/cf-mysql-release/tree/v10) (255M)
