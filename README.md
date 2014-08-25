@@ -29,12 +29,13 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-180.tgz
 ```
 
-- <strong id="cf-mysql">cf-mysql</strong> [v8](https://github.com/cloudfoundry/cf-mysql-release/tree/v8) (118M), [v9](https://github.com/cloudfoundry/cf-mysql-release/tree/v9) (259M), [v10](https://github.com/cloudfoundry/cf-mysql-release/tree/v10) (255M)
+- <strong id="cf-mysql">cf-mysql</strong> [v8](https://github.com/cloudfoundry/cf-mysql-release/tree/v8) (118M), [v9](https://github.com/cloudfoundry/cf-mysql-release/tree/v9) (259M), [v10](https://github.com/cloudfoundry/cf-mysql-release/tree/v10) (255M), [v11](https://github.com/cloudfoundry/cf-mysql-release/tree/v11) (255M)
 
 ```
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-mysql-8.tgz
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-mysql-9.tgz
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-mysql-10.tgz
+bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-mysql-11.tgz
 ```
 
 - **cf-services-contrib** [v5](https://github.com/cloudfoundry-community/cf-services-contrib-release/tree/v5) (795.7M)
@@ -43,11 +44,12 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://cf-contrib.s3.amazonaws.com/boshrelease-cf-services-contrib-5.tgz
 ```
 
-- **cf-riak-cs** [v2](https://github.com/cloudfoundry-incubator/cf-riak-cs-release/tree/v2) (196.8M), [v4](https://github.com/cloudfoundry-incubator/cf-riak-cs-release/tree/v4) (197.7M)
+- **cf-riak-cs** [v2](https://github.com/cloudfoundry-incubator/cf-riak-cs-release/tree/v2) (196.8M), [v4](https://github.com/cloudfoundry-incubator/cf-riak-cs-release/tree/v4) (197.7M) [v5](https://github.com/cloudfoundry-incubator/cf-riak-cs-release/tree/v5) (215.7M)
 
 ```
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-riak-cs-2.tgz
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-riak-cs-4.tgz
+bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-riak-cs-5.tgz
 ```
 
 - **consul** [v4](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v4) (61.5M)
