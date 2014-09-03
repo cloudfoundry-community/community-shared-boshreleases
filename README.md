@@ -15,8 +15,7 @@ bosh upload release https://admin-ui-boshrelease.s3.amazonaws.com/boshrelease-ad
 ```
 
 - **bosh** see http://boshartifacts.cloudfoundry.org/file_collections?type=releases
-- **cf** [v170](https://github.com/cloudfoundry/cf-release/tree/v170) (1.5G), [v173](https://github.com/cloudfoundry/cf-release/tree/v173) (2.5G), [v175](https://github.com/cloudfoundry/cf-release/tree/v175) (2.7G), [v176](https://github.com/cloudfoundry/cf-release/tree/v176) (2.8G), [v177](https://github.com/cloudfoundry/cf-release/tree/v177) (3.1G), [v178](https://github.com/cloudfoundry/cf-release/tree/v178) (3.1G), [v179](https://github.com/cloudfoundry/cf-release/tree/v179) (3.1G),
-[v180](https://github.com/cloudfoundry/cf-release/tree/v180) (3.1G), [v182](https://github.com/cloudfoundry/cf-release/tree/v182) (3.2G)
+- **cf** [v170](https://github.com/cloudfoundry/cf-release/tree/v170) (1.5G), [v173](https://github.com/cloudfoundry/cf-release/tree/v173) (2.5G), [v175](https://github.com/cloudfoundry/cf-release/tree/v175) (2.7G), [v176](https://github.com/cloudfoundry/cf-release/tree/v176) (2.8G), [v177](https://github.com/cloudfoundry/cf-release/tree/v177) (3.1G), [v178](https://github.com/cloudfoundry/cf-release/tree/v178) (3.1G), [v179](https://github.com/cloudfoundry/cf-release/tree/v179) (3.1G),[v180](https://github.com/cloudfoundry/cf-release/tree/v180) (3.1G), [v182](https://github.com/cloudfoundry/cf-release/tree/v182) (3.2G)
 
 ```
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-170.tgz
@@ -53,10 +52,11 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-riak-cs-5.tgz
 ```
 
-- **consul** [v4](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v4) (61.5M)
+- **consul** [v4](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v4) (61.5M), [v5](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v5) (57.5M)
 
 ```
 bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-consul-4.tgz
+bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-consul-5.tgz
 ```
 
 - **docker** [v4](https://github.com/cf-platform-eng/docker-boshrelease/tree/v4) (32M), [v5](https://github.com/cf-platform-eng/docker-boshrelease/tree/v5) (20M), [v6](https://github.com/cf-platform-eng/docker-boshrelease/tree/v6) (20M), [v7](https://github.com/cf-platform-eng/docker-boshrelease/tree/v7) (30M), [v8](https://github.com/cf-platform-eng/docker-boshrelease/tree/v8) (30.2M)
