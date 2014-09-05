@@ -53,11 +53,12 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-riak-cs-5.tgz
 ```
 
-- **consul** [v4](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v4) (61.5M), [v5](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v5) (57.5M)
+- **consul** [v4](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v4) (61.5M), [v5](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v5) (57.5M), [v6](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v6) (57.8M)
 
 ```
 bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-consul-4.tgz
 bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-consul-5.tgz
+bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-consul-6.tgz
 ```
 
 - **docker** [v4](https://github.com/cf-platform-eng/docker-boshrelease/tree/v4) (32M), [v5](https://github.com/cf-platform-eng/docker-boshrelease/tree/v5) (20M), [v6](https://github.com/cf-platform-eng/docker-boshrelease/tree/v6) (20M), [v7](https://github.com/cf-platform-eng/docker-boshrelease/tree/v7) (30M), [v8](https://github.com/cf-platform-eng/docker-boshrelease/tree/v8) (30.2M)
