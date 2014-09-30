@@ -62,7 +62,7 @@ bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-cons
 bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-consul-6.tgz
 ```
 
-- **docker** [v4](https://github.com/cf-platform-eng/docker-boshrelease/tree/v4) (32M), [v5](https://github.com/cf-platform-eng/docker-boshrelease/tree/v5) (20M), [v6](https://github.com/cf-platform-eng/docker-boshrelease/tree/v6) (20M), [v7](https://github.com/cf-platform-eng/docker-boshrelease/tree/v7) (30M), [v8](https://github.com/cf-platform-eng/docker-boshrelease/tree/v8) (30.2M)
+- **docker** [v4](https://github.com/cf-platform-eng/docker-boshrelease/tree/v4) (32M), [v5](https://github.com/cf-platform-eng/docker-boshrelease/tree/v5) (20M), [v6](https://github.com/cf-platform-eng/docker-boshrelease/tree/v6) (20M), [v7](https://github.com/cf-platform-eng/docker-boshrelease/tree/v7) (30M), [v8](https://github.com/cf-platform-eng/docker-boshrelease/tree/v8) (30.2M), [v9](https://github.com/cf-platform-eng/docker-boshrelease/tree/v9) (30.2M)
 
 ```
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-docker-4.tgz
@@ -70,6 +70,7 @@ bosh upload release https://docker-boshrelease.s3.amazonaws.com/boshrelease-dock
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-docker-6.tgz
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-docker-7.tgz
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-docker-8.tgz
+bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-docker-9.tgz
 ```
 
 - **docker-registry** [v1](https://github.com/cloudfoundry-community/docker-registry-boshrelease/tree/v1) (32M)
