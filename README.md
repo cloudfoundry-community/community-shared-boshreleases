@@ -92,6 +92,12 @@ bosh upload release https://docker-registry-boshrelease.s3.amazonaws.com/boshrel
 bosh upload release https://mesos-boshrelease.s3.amazonaws.com/boshrelease-mesos-1.tgz
 ```
 
+- **networking** [v1](https://github.com/cf-platform-eng/networking-boshrelease/tree/v1) (7.6KB)
+
+```
+bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-networking-1.tgz
+```
+
 - **redis** [v5](https://github.com/cloudfoundry-community/redis-boshrelease/tree/v5) (1M)
 
 ```
