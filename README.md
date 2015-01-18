@@ -108,10 +108,10 @@ bosh upload release https://redis-boshrelease.s3.amazonaws.com/boshrelease-redis
 
 The joiner release to advertise the redis service over consul:
 
-[v1](https://github.com/drnic/redis-consul-boshrelease/tree/v1) (1.4K)
+[v2](https://github.com/drnic/redis-consul-boshrelease/tree/v2) (1.4K)
 
 ```
-bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-redis-consul-1.tgz
+bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-redis-consul-2.tgz
 ```
 
 -	**shipyard** [v3](https://github.com/cf-platform-eng/shipyard-boshrelease/tree/v3) (6.1M)
