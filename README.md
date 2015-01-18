@@ -102,10 +102,10 @@ bosh upload release https://mesos-boshrelease.s3.amazonaws.com/boshrelease-mesos
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-networking-1.tgz
 ```
 
--	**redis** [v5](https://github.com/cloudfoundry-community/redis-boshrelease/tree/v5) (1M)
+-	**redis** [v9](https://github.com/cloudfoundry-community/redis-boshrelease/tree/v9) (1M)
 
 ```
-bosh upload release https://redis-boshrelease.s3.amazonaws.com/boshrelease-redis-5.tgz
+bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-redis-9.tgz
 ```
 
 The joiner release to advertise the redis service over consul:
