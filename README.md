@@ -5,6 +5,21 @@ This project references BOSH release tarballs from across the BOSH community.
 
 Additionally, it allows BOSH release tarballs to be uploaded to a shared blobstore. This is useful for BOSH releases that are not already sharing their tarballs (for example, core Cloud Foundry projects `cf` and `cf-mysq`).
 
+CPI releases
+------------
+
+-	**aws-cpi** used with new bosh-micro CLI https://github.com/cloudfoundry-incubator/bosh-aws-cpi-release v1 (28.9MB)
+
+```
+wget https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-bosh-aws-cpi-1.tgz
+```
+
+-	**openstack-cpi** https://github.com/cloudfoundry-incubator/bosh-openstack-cpi-release v1 (28.3MB)
+
+```
+wget https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-bosh-openstack-cpi-1.tgz
+```
+
 Releases
 --------
 
