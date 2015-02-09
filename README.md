@@ -79,7 +79,7 @@ bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshr
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-cf-riak-cs-5.tgz
 ```
 
--	**consul** [v4](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v4) (61.5M), [v5](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v5) (57.5M), [v6](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v6) (57.8M),[v7](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v7) (60M), [v8](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v8) (58M)
+-	**consul** [v4](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v4) (61.5M), [v5](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v5) (57.5M), [v6](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v6) (57.8M),[v7](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v7) (60M), [v8](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v8) (58M), [v10](https://github.com/cloudfoundry-community/consul-boshrelease/tree/v10) (62.2M)
 
 ```
 bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-consul-4.tgz
@@ -87,6 +87,7 @@ bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-cons
 bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-consul-6.tgz
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-consul-7.tgz
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-consul-8.tgz
+bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-consul-10.tgz
 
 ```
 
