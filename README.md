@@ -91,7 +91,12 @@ bosh upload release https://consul-boshrelease.s3.amazonaws.com/boshrelease-cons
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-consul-7.tgz
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-consul-8.tgz
 bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-consul-10.tgz
+```
 
+-	**crate** [v1](https://github.com/cloudfoundry-community/crate-boshrelease/tree/v1) (114.7M)
+
+```
+bosh upload release https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-crate-1.tgz
 ```
 
 -	**docker** [v4](https://github.com/cf-platform-eng/docker-boshrelease/tree/v4) (32M), [v5](https://github.com/cf-platform-eng/docker-boshrelease/tree/v5) (20M), [v6](https://github.com/cf-platform-eng/docker-boshrelease/tree/v6) (20M), [v7](https://github.com/cf-platform-eng/docker-boshrelease/tree/v7) (30M), [v8](https://github.com/cf-platform-eng/docker-boshrelease/tree/v8) (30.2M), [v9](https://github.com/cf-platform-eng/docker-boshrelease/tree/v9) (30.2M)
