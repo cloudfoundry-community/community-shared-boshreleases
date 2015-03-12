@@ -23,10 +23,11 @@ wget https://community-shared-boshreleases.s3.amazonaws.com/boshrelease-bosh-ope
 Releases
 --------
 
--	**admin-ui** [v2](https://github.com/cloudfoundry-community/admin-ui-boshrelease/tree/v2) (20M), [v3](https://github.com/cloudfoundry-community/admin-ui-boshrelease/tree/v3) (20M)
+-	**admin-ui** [v2](https://github.com/cloudfoundry-community/admin-ui-boshrelease/tree/v2) (20M), [v3](https://github.com/cloudfoundry-community/admin-ui-boshrelease/tree/v3) (20M), [v5](https://github.com/cloudfoundry-community/admin-ui-boshrelease/tree/v5) (45M)
 
 ```
 bosh upload release https://admin-ui-boshrelease.s3.amazonaws.com/boshrelease-admin-ui-3.tgz
+bosh upload release https://admin-ui-boshrelease.s3.amazonaws.com/boshrelease-admin-ui-5.tgz
 ```
 
 -	**bosh** see http://boshartifacts.cloudfoundry.org/file_collections?type=releases
